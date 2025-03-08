@@ -51,5 +51,5 @@ This project is open-source and free to use. Feel free to modify and contribute!
 
 **⭐ Support**
 If you like this project, don’t forget to give it a ⭐ star on GitHub!
-For any queries, feel free to reach out. 😊
+
 
